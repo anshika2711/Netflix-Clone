@@ -9,10 +9,6 @@ A Netflix-inspired web application built using HTML, CSS, and a bit of JavaScrip
 - **Hover Effects**: Interactive hover effects on movie thumbnails.
 - **Basic Functionality**: Includes JavaScript for basic interactivity like sliders or modal popups.
 
-## Screenshots
-
-_Add screenshots or GIFs of your project here to showcase its appearance._
-
 ## Technologies Used
 
 - **HTML**: Structure of the web pages.
